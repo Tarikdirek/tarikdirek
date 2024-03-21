@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tarık</h1>
-- 🌱 I’m currently learning React and Java
+🌱 I’m currently learning React and Java
 
 - 📫 How to reach me **tarkdirek@gmail.com**
 
