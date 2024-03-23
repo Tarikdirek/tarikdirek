@@ -1,7 +1,7 @@
 <img class="post__image__src" srcset="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-400x200.png 400w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png 800w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-1140x570.png 1200w" src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" loading="eager" width="800" height="400">
 
 
-<h1 align="center">Hi 👋, I'm Tarık</h1>
+<h1 align="center">Hi 👋, I'm Tarık Direk</h1>
  🌱 I’m currently learning React and Java
 
 📫 How to reach me **tarkdirek@gmail.com**
