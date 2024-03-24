@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tarık Direk</h1>
- 🌱 I’m currently learning React and Java
+ 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.
 
 📫 How to reach me **tarkdirek@gmail.com**
 
