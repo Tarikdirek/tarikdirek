@@ -2,9 +2,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <h1 align="center">Hi 👋, I'm Tarık Direk</h1>
-- 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.**
+- 🌱 I have completed specialized training in Java and React,and I am currently working on delving deeper into Java and Spring Boot.   Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.
 
 - 📫 How to reach me **tarkdirek@gmail.com**
+  
 - 📝 I regularly write articles on **https://medium.com/@tarkdirek**
 - 📄 Know about my experiences **https://acrobat.adobe.com/id/urn:aaid:sc:AP:66a74fb5-e81d-413b-9ea6-8b346c2672b4**
 
