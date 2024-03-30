@@ -1,8 +1,8 @@
-<img class="post__image__src" srcset="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-400x200.png 400w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png 800w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-1140x570.png 1200w" src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" loading="eager" width="800" height="400">
+<img class="post__image__src" srcset="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-400x200.png 400w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png 800w, https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-1140x570.png 1200w" src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" loading="eager" width="1000" height="600">
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 <h1 align="center">Hi 👋, I'm Tarık Direk</h1>
-- 🌱 **I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.**
+- 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.**
 
 - 📫 How to reach me **tarkdirek@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@tarkdirek**
@@ -47,6 +47,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarikdirek&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarikdirek&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarikdirek&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarikdirek&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarikdirek&theme=2077" height="180em" />
 </div>
