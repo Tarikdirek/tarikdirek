@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" width="1000" height="600">
+  <img src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" width="100%" height="100%" background-size:"cover">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarık Direk</h1>
@@ -42,5 +42,5 @@
 <p align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarikdirek&layout=compact&theme=tokyonight" alt="Tarikdirek's Top Languages">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Tarikdirek&show_icons=true&locale=en&theme=tokyonight" alt="Tarikdirek's GitHub Stats">
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarikdirek&theme=tokyonight" alt="Tarikdirek's GitHub Streak">
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarikdirek&theme=tokyonight" alt="Tarikdirek's GitHub Streak" >
 </p>
