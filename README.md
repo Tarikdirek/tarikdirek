@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" width="100%" height="100%" background-size:"cover">
+  <img  src="https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png" alt="Hacker behind a laptop with code flying around" width="100%" height="100%" background-size:"cover">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tarık Direk</h1>
