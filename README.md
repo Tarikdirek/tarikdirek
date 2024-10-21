@@ -1,6 +1,5 @@
 <p align="center">
-  <img  src="" alt="Hacker behind a laptop with code flying around" width="100%" height="100%" background-size:"cover">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Tarık </h1>
 
