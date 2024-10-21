@@ -2,7 +2,7 @@
   <img  src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif?raw=true" alt="Hacker behind a laptop with code flying around" width="100%" height="100%" background-size:"cover">
 </p>
 
-<h1 align="center">Hi 👋, I'm Tarık Direk</h1>
+<h1 align="center">Hi 👋, I'm Tarık </h1>
 
 - 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.
 
