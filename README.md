@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<h1 align="center">Hi 👋, I'm Tarık </h1>
+<h1 align="center">Hi 👋, This is Tarık </h1>
 
 - 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.
 
