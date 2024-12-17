@@ -3,13 +3,18 @@
 
 <h1 align="center">Hi 👋, This is Tarık </h1>
 
-- 🌱 I have completed specialized training in Java and React, and I am currently working on delving deeper into Java and Spring Boot. Additionally, I aim to develop real-life applications by learning microservice architecture and DevOps processes.
+👋 Hello, World! I'm an aspiring Web Developer with a passion for crafting user-friendly, secure, and scalable web applications.
 
-- 📫 How to reach me: tarkdirek@gmail.com
-  
-- 📝 I regularly write articles on [Medium](https://medium.com/@tarkdirek)
-  
-- 📄 Know about my experiences [here](https://acrobat.adobe.com/id/urn:aaid:sc:AP:66a74fb5-e81d-413b-9ea6-8b346c2672b4)
+🎓 I’m currently studying Computer Programming at Atatürk University, where I’m building a strong foundation in:
+
+Object-Oriented Programming (OOP)
+Data Structures & Algorithms
+Software Development Principles
+💡 I’m diving deep into in-demand web technologies to build modern and impactful applications that solve real-world problems and deliver value to both users and businesses.
+
+🚀 My mission? To turn ideas into functional, elegant, and efficient web solutions.
+
+🌟 I’m excited to take on new challenges and opportunities in the ever-evolving world of web development.
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
