@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, This is Tarık </h1>
 
-👋 Hello, World! I'm an aspiring Web Developer with a passion for crafting user-friendly, secure, and scalable web applications.
+👋 Welcome to my GitHub page! I'm an aspiring Web Developer with a passion for crafting user-friendly, secure, and scalable web applications.
 
 🎓 I’m currently studying Computer Programming at Atatürk University, where I’m building a strong foundation in:
 
