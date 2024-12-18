@@ -9,7 +9,7 @@
 
 Object-Oriented Programming (OOP)
 Data Structures & Algorithms
-Software Development Principles
+Software Development Principles <br/><br/>
 💡 I’m diving deep into in-demand web technologies to build modern and impactful applications that solve real-world problems and deliver value to both users and businesses.
 
 🚀 My mission? To turn ideas into functional, elegant, and efficient web solutions.
