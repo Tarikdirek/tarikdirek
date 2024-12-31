@@ -7,8 +7,8 @@
 
 🎓 I’m currently studying Computer Programming at Atatürk University, where I’m building a strong foundation in:
 
-Object-Oriented Programming (OOP)
-Data Structures & Algorithms
+Object-Oriented Programming (OOP) <br> <br>
+Data Structures & Algorithms <br><br>
 Software Development Principles <br/><br/>
 💡 I’m diving deep into in-demand web technologies to build modern and impactful applications that solve real-world problems and deliver value to both users and businesses.
 
