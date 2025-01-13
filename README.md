@@ -1,7 +1,7 @@
 <p align="center">
 
 
-<h1 align="center">Hi 👋, This is Mahmut Tarık Direk</h1>
+<h1 align="center">Hi 👋, I'm Tarık</h1>
 
 👋 Welcome to my GitHub page! I'm an aspiring Web Developer with a passion for crafting user-friendly, secure, and scalable web applications.
 
